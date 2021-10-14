@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.spring.member.vi&apos; to &apos;com.spring.member.vo&apos;&#x0D;&#x0A;- Original project: &apos;pro22&apos;&#x0D;&#x0A;- Original element: &apos;pro22/src/main/java/com.spring.member.vi&apos;&#x0D;&#x0A;- Renamed element: &apos;pro22/src/main/java/com.spring.member.vo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.spring.member.vi&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.spring.member.vi" name="com.spring.member.vo" qualified="false" references="true" stamp="1629000795433" textual="false" version="1.0"/>
+</session>

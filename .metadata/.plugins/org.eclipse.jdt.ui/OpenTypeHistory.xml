@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=pro19/src&lt;com.spring.ex01{PersonService.java[PersonService" modifiers="513" timestamp="1628493130214"/>
+    <typeInfo handle="=pro19/src&lt;com.spring.ex03{MemberService.java[MemberService" modifiers="513" timestamp="1628505663080"/>
+    <typeInfo handle="=pro19/C:\/Users\/nambi\/.p2\/pool\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.1.v20210528-1205\/jre\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/16\/docs\/api\/=/&lt;java.lang.reflect(Member.class[Member" modifiers="1537" timestamp="1622171528000"/>
+    <typeInfo handle="=pro19/src&lt;com.spring.ex03{MemberDAO.java[MemberDAO" modifiers="513" timestamp="1628505750488"/>
+    <typeInfo handle="=pro21/C:\/myJSP\/workspace\/pro21\/src\/main\/webapp\/WEB-INF\/lib\/spring.jar&lt;org.springframework.web.servlet.mvc(Controller.class[Controller" modifiers="1537" timestamp="1628589042536"/>
+    <typeInfo handle="=pro21/C:\/myJSP\/workspace\/pro21\/src\/main\/webapp\/WEB-INF\/lib\/org.springframework.web.servlet-3.0.6.RELEASE.jar&lt;org.springframework.web.servlet.mvc(Controller.class[Controller" modifiers="1537" timestamp="1628589042406"/>
+    <typeInfo handle="=pro21/C:\/myJSP\/workspace\/pro21\/src\/main\/webapp\/WEB-INF\/lib\/org.springframework.web.servlet-3.0.6.RELEASE.jar&lt;org.springframework.web.servlet.mvc.multiaction(MultiActionController.class[MultiActionController" modifiers="33" timestamp="1628589042406"/>
+    <typeInfo handle="=pro23/C:\/tomcat9\/lib\/servlet-api.jar=/owner.project.facets=/jst.web=/=/javadoc_location=/https:\/\/javaee.github.io\/javaee-spec\/javadocs\/=/&lt;javax.servlet.http(HttpServlet.class[HttpServlet" modifiers="1057" timestamp="1624870004000"/>
+    <typeInfo handle="=pro24/C:\/myJSP\/workspace\/pro24\/src\/main\/webapp\/WEB-INF\/lib\/org.springframework.web.servlet-3.0.6.RELEASE.jar&lt;org.springframework.web.servlet.mvc.multiaction(MultiActionController.class[MultiActionController" modifiers="33" timestamp="1629281299502"/>
+    <typeInfo handle="=pro24/src\/main\/java&lt;com.spring.member.controller{MemberController.java[MemberController" modifiers="513" timestamp="1629367174200"/>
+    <typeInfo handle="=pro24/src\/main\/java&lt;com.spring.member.dao{MemberDAO.java[MemberDAO" modifiers="513" timestamp="1629424181729"/>
+    <typeInfo handle="=pro24/src\/main\/java&lt;com.spring.member.service{MemberService.java[MemberService" modifiers="513" timestamp="1629424215403"/>
+</typeInfoHistroy>
